@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @msmaximus
-- 👀 I’m interested in changing carrer
-- 🌱 I’m currently learning Cloud, Python and linux
+- 👀 I’m interested in changing career
+- 🌱 I’m currently learning Cloud, Python and Linux
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me mxsaints@live.com.pt
 
