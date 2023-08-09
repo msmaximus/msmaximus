@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @msmaximus
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning Cloud, Python, Linux, Blue team, Red Team
+- 👀 I’m interested in all areas of IT
+- 🌱 I’m currently learning Cloud, Python, Linux,SQL
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me mxsaints@live.com.pt
 
